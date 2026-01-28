@@ -1,17 +1,14 @@
-Research project on user behavior analysis using Python and web interaction data.
+## 👋 Hi, I'm Harvi
 
+🎓 Research Student  
+📊 Interested in User Behavior Analysis  
+🐍 Python | Data Analysis | Web Analytics  
 
-<!--
-**harvipatel10/harvipatel10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔬 Current Research
+Analyzing how users interact with websites using clickstream data.
 
-Here are some ideas to get you started:
+### 📌 Projects
+🔹 Beauty Appointment Web App  
+🔹 User Interest Prediction (Python)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect with me on LinkedIn
