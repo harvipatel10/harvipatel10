@@ -57,3 +57,12 @@ To work as a Frontend Developer where I can enhance my skills, learn new technol
 📧 Email: harvishapatel10@gmail.com
 
 🔗 LinkedIn: [https://www.linkedin.com/in/harvisha-patel](https://www.linkedin.com/in/harvisha-patel-76a278281/)
+
+
+---
+
+## 🔄 Recent Updates
+- Improved UI structure and readability
+- Updated README with detailed project descriptions
+- Minor layout and content refinements
+
